@@ -17,6 +17,4 @@ Project Objectives
 * Collect historical diesel price data.
 * Analyze changes in diesel prices using Python.
 * Estimate trucking fuel costs.
-* Create two data visualizations.
-* Interpret the results.
-* Present the findings on an HTML website.
+* Create two data vi
